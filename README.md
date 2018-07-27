@@ -44,5 +44,5 @@ company work
 
 研究printer读取word控件
 
-被word的图片控件卡住被word的图片控件卡住
+被word的图片控件卡住
 word模板
