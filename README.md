@@ -78,3 +78,5 @@ work work
 整理工作内容
 
 发现一个github的bug，在00:00提交时两天都没有提交记录
+
+docker安装
