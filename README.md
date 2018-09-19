@@ -99,3 +99,5 @@ docker安装
 结构化模板
 
 up
+
+结构化模板，groupbox,panel等容器类布局的问题，用docker属性才行，而control类型的控件使用Anchor即可
