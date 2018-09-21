@@ -117,3 +117,6 @@ up
 3. 带领初级工程师协同完成工作
 4. 解决大部分项目研发过程中遇到的技术问题
 5. 持续优化和完善应用框架代码
+
+用flowlayoutpanel的时候换行方案：
+After adding the last control before the break, call flow.SetFlowBreak(control, true)
