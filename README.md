@@ -120,3 +120,6 @@ up
 
 用flowlayoutpanel的时候换行方案：
 After adding the last control before the break, call flow.SetFlowBreak(control, true)
+
+
+preferedsize属性
