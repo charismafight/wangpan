@@ -163,3 +163,5 @@ company work
 荒废
 
 up
+
+更新日志，fastreport.prepare()
