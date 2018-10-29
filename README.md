@@ -167,3 +167,5 @@ up
 更新日志，fastreport.prepare()
 
 结构化模板的一些代码
+
+结构化图片
