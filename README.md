@@ -178,3 +178,5 @@ chuchai
 continuous optimize 
 
 北肿数据库问题，sqlserver2008r2 sp1似乎容易出现无法复用sql连接的问题
+
+优化代码
