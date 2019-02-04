@@ -247,3 +247,5 @@ deploy pr
 休息，要过年了
 
 上线不容易，慎重再慎重
+
+Happy Chinese New Year!
