@@ -248,4 +248,5 @@ deploy pr
 
 上线不容易，慎重再慎重
 
+简单的主从表弄得巨复杂，是否真的应该重写。
 Happy Chinese New Year!
