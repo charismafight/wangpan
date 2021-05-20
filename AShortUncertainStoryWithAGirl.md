@@ -8,4 +8,4 @@
 &emsp;&emsp;我不止一次想过要把我们的感情消灭在萌芽，但甚至只要提起这种念头，心脏就会抽搐；直到她替我做了这个决定，我在她身上看到了我所不具备的勇敢，然后体会到了痛不欲生。泪珠和笔墨齐下，江州司马青衫湿，情不知所起，一往而深。
 
 
-![avatar](https://gitee.com/champath_wuhanqianpin/image-bed/blob/master/0aa91bd440f37da78a1fc374e0795d9.jpg)
+![avatar](https://gitee.com/champath_wuhanqianpin/pictures/blob/master/0aa91bd440f37da78a1fc374e0795d9.jpg)
